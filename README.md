@@ -7,3 +7,4 @@ since they are built-in, you don’t have to worry about manually creating them.
 more lists.         They are accessed just like strings (e.g. slicing and concatenation) so they are simple to use and they’re variable length, i.e. they grow
 and shrink automatically as they’re used.         In reality, Python lists are C arrays inside the Python interpreter and act just like an array of pointers.
 
+Dictionary: In python, dictionary is similar to hash or maps in other languages. It consists of key value pairs. The value can be accessed by unique key in the dictionary.
